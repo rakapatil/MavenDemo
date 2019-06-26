@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
@@ -22,3 +23,7 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+=======
+# MavenDemo
+Simple maven demo
+>>>>>>> 3a6378f31b143662eb43d70c4b7fa79c091522b4
